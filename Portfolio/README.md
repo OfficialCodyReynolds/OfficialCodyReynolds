@@ -4,7 +4,7 @@
 
 # <p style="font-size:24px;">👨‍💻 PORTFOLIO</p>
 
-🔷 <a href="TryHackMe.md">TryHackMe Journal</a><br>
+🔷 <a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Portfolio/Portfolio/TryHackMe_Journal/README.md">TryHackMe Journal</a><br>
 🔷 <b>Incident Handler’s Journal "Coming Soon"</b><br>
 🔷 <b>Vulnerable System Analysis "Coming Soon"</b><br>
 🔷 <b>SQL Query “Coming Soon”</b><br>
