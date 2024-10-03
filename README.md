@@ -10,7 +10,7 @@
 🔷 <b>SQL Query “Coming Soon”</b><br>
 
 <h2>🏆 CERTIFICATIONS </h2>
-<a href="Certifications/Google/FoundOfCyber.md">Foundations Of Cybersecurity</a><br>
+<a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Portfolio/Certifications/Google/Foundations_Of_Cybersecurity/FOC.md">Foundations Of Cybersecurity</a><br>
 <a href="https://yourwebsite.com">Play It Safe: Manage Security Risks</a><br>
 <a href="https://yourwebsite.com">Connect And Protect: Networks and Network Security</a><br>
 
