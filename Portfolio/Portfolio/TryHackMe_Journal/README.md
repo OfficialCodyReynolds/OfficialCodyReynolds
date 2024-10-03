@@ -49,6 +49,4 @@ For a detailed analysis of <B>My Journal</B>, please refer to the full report he
 
 # TryHackMe Journal Entries
 
-## [Entry 1: Linux Fundamentals 1](#entry-1-linux-fundamentals-1)
-## [Entry 2: Another Topic](#entry-2-another-topic)
-## [Entry 3: More Topics](#entry-3-more-topics)
+## [Entry 1: Linux Fundamentals 1](#Linux_Fundamentals_1)
