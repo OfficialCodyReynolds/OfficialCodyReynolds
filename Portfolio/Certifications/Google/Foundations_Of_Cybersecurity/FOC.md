@@ -1,6 +1,6 @@
 # FOUNDATIONS OF CYBERSECURITY
 
-<img src="https://github.com/OfficialCodyReynolds/OfficialCodyReynolds/blob/main/Images/Google-Certifications/Foundations-Of-Cybersecurity.jpg" width="500"/>
+<img src="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Portfolio/Certifications/Google/Foundations_Of_Cybersecurity/Images/Foundations-Of-Cybersecurity.jpg" width="500"/>
 
 ## Overview:
 On August 4, 2024, I successfully completed the “Foundations of Cybersecurity” Google Certification, dedicating approximately 14 hours to the course and achieving an impressive grade of 93.33%.<br>
