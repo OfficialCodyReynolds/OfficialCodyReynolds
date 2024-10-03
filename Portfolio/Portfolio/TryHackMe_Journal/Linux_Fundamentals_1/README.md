@@ -26,3 +26,9 @@ This project is a walkthrough of the TryHackMe "Linux Fundamentals" challenge. T
 - `report.md`: Detailed write-up of the challenge and findings.
 - `screenshots/`: Visual evidence of challenge completion.
 - `results.txt`: Raw output from terminal sessions.
+
+# Project Screenshots
+
+Please refer here for a more detailed view of the project:
+
+## [Entry 1: Linux Fundamentals 1](https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Portfolio/Portfolio/TryHackMe_Journal/Linux_Fundamentals_1/Screenshots/Screenshots.md)
