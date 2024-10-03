@@ -46,3 +46,9 @@ The project will be ongoing, with regular updates to the journal as new challeng
 
 For a detailed analysis of <B>My Journal</B>, please refer to the full report here:
 [TryHackMe Journal](https://docs.google.com/document/d/1ENMjU_JEnsx6wCzB2H-9lRLoSThF7O24cqMJlShR478/edit?usp=drive_link).
+
+# TryHackMe Journal Entries
+
+## [Entry 1: Linux Fundamentals 1](#entry-1-linux-fundamentals-1)
+## [Entry 2: Another Topic](#entry-2-another-topic)
+## [Entry 3: More Topics](#entry-3-more-topics)
