@@ -3,36 +3,36 @@
 Here are some key screenshots from my TryHackMe Linux Fundamentals 1 - Entry 1 project:
 
 <p align="center">
-  <img src="./Linux_Fundamentals_1/Screenshot1.jpeg" alt="Screenshot1" width="300" />
+  <img src="./Linux_Fundamentals_1/Screenshots/Screenshots.md/Screenshot1.jpeg" alt="Screenshot1" width="300" />
   <br><small>Figure 1: Introduction To The Linux Terminal</small>
 </p>
 
 <p align="center">
-  <img src="./Linux_Fundamentals_1/Screenshot2.jpeg" alt="Screenshot2" width="300" />
+  <img src="./Linux_Fundamentals_1/Screenshots/Screenshots.md/Screenshot2.jpeg" alt="Screenshot2" width="300" />
   <br><small>Figure 2: Working With Files & Directories</small>
 </p>
 
 <p align="center">
-  <img src="./Linux_Fundamentals_1/Screenshot3.jpeg" alt="Screenshot3" width="300" />
+  <img src="./Linux_Fundamentals_1/Screenshots/Screenshots.md/Screenshot3.jpeg" alt="Screenshot3" width="300" />
   <br><small>Figure 3: Expanding The File System</small>
 </p>
 
 <p align="center">
-  <img src="./Linux_Fundamentals_1/Screenshot4.jpeg" alt="Screenshot4" width="300" />
+  <img src="./Linux_Fundamentals_1/Screenshots/Screenshots.md/Screenshot4.jpeg" alt="Screenshot4" width="300" />
   <br><small>Figure 4: Understanding File Permissions</small>
 </p>
 
 <p align="center">
-  <img src="./Linux_Fundamentals_1/Screenshot5.jpeg" alt="Screenshot5" width="300" />
+  <img src="./Linux_Fundamentals_1/Screenshots/Screenshots.md/Screenshot5.jpeg" alt="Screenshot5" width="300" />
   <br><small>Figure 5: File Manipulation & Redirection</small>
 </p>
 
 <p align="center">
-  <img src="./Linux_Fundamentals_1/Screenshot6.jpeg" alt="Screenshot6" width="300" />
+  <img src="./Linux_Fundamentals_1/Screenshots/Screenshots.md/Screenshot6.jpeg" alt="Screenshot6" width="300" />
   <br><small>Figure 6: Reflection Of Project</small>
 </p>
 
 <p align="center">
-  <img src="./Linux_Fundamentals_1/Screenshot7.jpeg" alt="Screenshot7" width="300" />
+  <img src="./Linux_Fundamentals_1/Screenshots/Screenshots.md/Screenshot7.jpeg" alt="Screenshot7" width="300" />
   <br><small>Figure 7: Important Takeaways & Key Commands Learned</small>
 </p>
