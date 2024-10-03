@@ -49,4 +49,4 @@ For a detailed analysis of <B>My Journal</B>, please refer to the full report he
 
 # TryHackMe Journal Entries
 
-## [Entry 1: Linux Fundamentals 1](#Linux_Fundamentals_1)
+## [Entry 1: Linux Fundamentals 1](#https://github.com/OfficialCodyReynolds/Portfolio/tree/main/Portfolio/Portfolio/TryHackMe_Journal/Linux_Fundamentals_1)
