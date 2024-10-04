@@ -1,6 +1,6 @@
 # CONNECT & PROTECT: NETWORKS & NETWORK SECURITY
 
-<img src="" width="500"/>
+<img src="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Certifications/Google/Connect_%26_Protect/Images/CourseraENI2PSSHTW54.jpg" width="500"/>
 
 ## Overview:
 On August 24, 2024, I successfully completed the “Connect and Protect: Networks and Network Security” Google Certification, dedicating approximately 14 hours to the course and achieving a grade of 86.34%.<br>
