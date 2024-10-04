@@ -11,7 +11,7 @@
 
 <h2>🏆 CERTIFICATIONS </h2>
 <a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Portfolio/Certifications/Google/Foundations_Of_Cybersecurity/FOC.md">Foundations Of Cybersecurity</a><br>
-<a href="https://yourwebsite.com">Play It Safe: Manage Security Risks</a><br>
+<a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Portfolio/Certifications/Google/Play_It_Safe/PIS.md">Play It Safe: Manage Security Risks</a><br>
 <a href="https://yourwebsite.com">Connect And Protect: Networks and Network Security</a><br>
 
 <h2>📺 Popular YouTube Videos</h2>
