@@ -10,9 +10,13 @@
 🔷 <b>SQL Query “Coming Soon”</b><br>
 
 <h2>🏆 CERTIFICATIONS </h2>
-<a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Portfolio/Certifications/Google/Foundations_Of_Cybersecurity/FOC.md">Foundations Of Cybersecurity</a><br>
-<a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Portfolio/Certifications/Google/Play_It_Safe/PIS.md">Play It Safe: Manage Security Risks</a><br>
-<a href="https://yourwebsite.com">Connect And Protect: Networks and Network Security</a><br>
+1. <a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Certifications/Google/Foundations_Of_Cybersecurity/FOC.md">Foundations Of Cybersecurity</a><br>
+2. <a href="">Play It Safe: Manage Security Risks</a><br>
+3. <a href="">Connect And Protect: Networks and Network Security</a><br>
+4. <a href="">Tools of the Trade: Linux and SQL</a><br>
+5. <a href="">Assets, Threats, and Vulnerabilities</a><br>
+6. <a href="">"Coming Soon"</a><br>
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
