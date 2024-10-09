@@ -2,7 +2,7 @@
 <br/>Cybersecurity Professional & Practioner</a></h1>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<h2>👨‍💻 PORTFOLIO</h2>
+<h2>👨‍💻 **PORTFOLIO** </h2>
 
 🔷 <a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Portfolio/Portfolio/TryHackMe_Journal/README.md">TryHackMe Journal</a><br>
 🔷 <b>Incident Handler’s Journal "Coming Soon"</b><br>
