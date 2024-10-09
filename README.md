@@ -1,5 +1,5 @@
 <h1>Hi, I'm Cody Reynolds (CR) 
-<br/>Cybersecurity Professional & Practioner</a></h1>
+<br/><p style="color:blue">Cybersecurity Professional & Practioner</a></h1></p>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <h2>👨‍💻 PORTFOLIO</h2>
