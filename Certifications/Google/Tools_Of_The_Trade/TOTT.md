@@ -1,4 +1,4 @@
-#</B> TOOLS OF THE TRADE: LINUX & SQL</B>
+# TOOLS OF THE TRADE: LINUX & SQL
 
 <img src="" width="500"/>
 
