@@ -1,6 +1,6 @@
 # TOOLS OF THE TRADE: LINUX & SQL
 
-<img src="" width="500"/>
+<img src="https://github.com/OfficialCodyReynolds/OfficialCodyReynolds/blob/main/Certifications/Google/Tools_Of_The_Trade/Images/Coursera%20D9IENRP11ZXV.jpg" width="500"/>
 
 ## Overview:
 
