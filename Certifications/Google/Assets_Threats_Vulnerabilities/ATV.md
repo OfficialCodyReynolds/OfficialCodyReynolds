@@ -1,6 +1,6 @@
 # Assets, Threats, and Vulnerabilities
 
-<img src=""/>
+<img src="https://github.com/OfficialCodyReynolds/OfficialCodyReynolds/blob/main/Certifications/Google/Assets_Threats_Vulnerabilities/Images/Coursera%20J1PQ2W4HE58B.jpg"/>
 
 ## Overview:
 On September 25, 2024, I successfully completed the “Assets, Threats, and Vulnerabilities” Google Certification, investing approximately 26 hours in rigorous coursework and achieving a grade of 88.75%.<br>
