@@ -22,12 +22,6 @@ On September 13, 2024, I successfully completed the “Tools of the Trade: Linux
 - Learned how to use SQL to query and retrieve information from databases, a key skill for analyzing data within cybersecurity operations.
 - Built the foundation for leveraging SQL in incident response and other data-driven tasks.
 
-<B>4. Common Tools Used by Cybersecurity Analysts:</B>
-- Familiarized with various tools and technologies commonly used in the field of cybersecurity,
-  including intrusion detection systems, firewalls, and encryption methods.
-- Gained hands-on experience with tools that help in monitoring, detecting, and responding to
-  security incidents.
-
 <B><I>This certification has strengthened my technical proficiency in Linux and SQL, preparing me to better manage and analyze data in cybersecurity contexts.</B></I>
 
 ## Verify Credentials Here: <br>
