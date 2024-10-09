@@ -13,7 +13,7 @@
 1. <a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Certifications/Google/Foundations_Of_Cybersecurity/FOC.md">Foundations Of Cybersecurity</a><br>
 2. <a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Certifications/Google/Play_It_Safe/PIS.md">Play It Safe: Manage Security Risks</a><br>
 3. <a href="https://github.com/OfficialCodyReynolds/Portfolio/blob/main/Certifications/Google/Connect_%26_Protect/C%26P.md">Connect And Protect: Networks and Network Security</a><br>
-4. <a href="">Tools of the Trade: Linux and SQL</a><br>
+4. <a href="https://github.com/OfficialCodyReynolds/OfficialCodyReynolds/blob/main/Certifications/Google/Tools_Of_The_Trade/TOTT.md">Tools of the Trade: Linux and SQL</a><br>
 5. <a href="">Assets, Threats, and Vulnerabilities</a><br>
 6. <a href="">"Coming Soon"</a><br>
 
